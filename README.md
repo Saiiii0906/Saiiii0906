@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working on:<br><br>AI/ML projects and startup products focused on real-world problem solving<br>Contributing across multiple startups in product, technology, and growth roles<br><br>🤝 I'm looking for help with:<br><br>Scaling AI products, deployment strategies, and startup ecosystem networking<br><br>🌱 I'm currently learning:<br><br>Advanced Machine Learning, Cloud technologies, System Design, and AI product development<br><br>💬 Ask me about:<br><br>AI/ML, startup building, AWS-based projects, GitHub, and tech communities<br><br>⚡ Fun fact:<br><br>I enjoy turning ideas into working products — from AI applications to startup prototypes.
-
+🔭 Currently working on AI/ML projects and startup products solving real-world problems  
+🤝 Open to collaborating on AI/ML projects and innovative ideas  
+🌱 Learning Machine Learning, Cloud, System Design & AI product development  
+💬 Ask me about AI/ML, AWS projects, GitHub, and startups  
+🚀 Fun fact: I enjoy turning ideas into working products
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saiiii.k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srisaikiran-tambalkar-479773298) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SriSaiKiranT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srisaikirantambalkar@gmail.com) 
