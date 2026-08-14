@@ -1,4 +1,4 @@
-[# 💫 About Me:
+💫 About Me:
 * Currently working on AI/ML projects and startup products solving real-world problems  
 * Open to collaborating on AI/ML projects and innovative ideas  
 * Learning Machine Learning, Cloud, System Design & AI product development  
@@ -18,6 +18,3 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Saiiii0906&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://instagram.com/_saiiii.k)
