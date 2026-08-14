@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 * Currently working on AI/ML projects and startup products solving real-world problems  
 * Open to collaborating on AI/ML projects and innovative ideas  
 * Learning Machine Learning, Cloud, System Design & AI product development  
